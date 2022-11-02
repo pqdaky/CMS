@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T09:29:40.707Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rQQguCuK9RgoJzo8c5SP" version="20.5.1" type="github"><diagram id="yLxBK1rM6NzwNdWk88_m" name="第 1 页">7Vhbb5swFP41fmzFHfMIgXbaOqlSNW17mtzgABvBzHEu9Nfv2JgQGhJlU9Wk1V4S+/Px7Tvf8TkC2ZP55paTOv/MUloiy0g3yI6RZZmeZ8GfRJoW8S2jBTJepNqoBx6KJ6rBzmxZpHQxMBSMlaKoh+CUVRWdigFGOGfrodmMlcNda5LRPeBhSsp99GuRirxFseX3+AdaZHm3s+kF7cicdMb6JoucpGy9A9kJsiecMdG25psJLSV5HS/tvJsDo9uDcVqJUyb8Mmc/mLP+uGq+bOxVc2vc3H+6cttVVqRc6gvrw4qmY4CmQIjuMi5ylrGKlEmPRpwtq5TKbQzo9TZ3jNUAmgD+pEI02rtkKRhAuZiXerTdU2508G4aWrAln9IjF+o0QnhGxRE7Z+sBkC5lcyp4A/M4LYkoVsNzEK2hbGvX0wwNzfRfsG7us564KEpQmKDEQdENCk2UeAgHKIxQ4qPQQNjc88yQ93VeCPpQE0XPGqJxjOMV5YJujrO8z4qe4Ggl61C2PN1f94FhdmrPd4Kis3t5Hvc5eQW1Alu8+SbnX7td9/vuWLzRi7e9RvdeUOXWiSr3zqlya1TlIPEAS01HMQpMJXeMMKgcSySKL03ltnNuldvjr0WIAkfyCL8hlkjgIux1Q/7lM+tY52bWf2/Zz3kL74LpjAga3oNIvQftCxF28g13dOxLZYe+tMGgclshtpw45rU78gi16IBpUhZZBe0pEEs5AFLOBRR7oR6YF2naOpUuiifyqNaTbq1ZUQlFhBshNz4WD7oS1ZO3ZdnAn4fVeDB4roxrrc6TvaTXupdn3zFhs9kC1PHcjdst/92zI461vBLuHM2YOkLvIu/3Uha+Ww9cad+Eco8qp7wQiuTODlqZ/v+/4MUt2Naqga2yzwRhQyIQmm1igqyEJypVuaoBljEKIehvlPFET8dqnWAio1wHvaGMHVUXw/RAxrrcIpZL6Vs88uf3Au22VzsjfOZUe3m1evDecq13Yq7F58y13kiqfV4Xkro+u15d99L0it9iLpMPaYIwVg9pjLA99l3Blf4PDPUywwvsv7GnzX9FqUC3/0DXVkn9Z047+QM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-02T09:59:33.941Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="TBlVttANpMkhcrQwjn6F" version="20.5.1" type="github">
+  <diagram id="yLxBK1rM6NzwNdWk88_m" name="第 1 页">
+    <mxGraphModel dx="1662" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k1f_o4wJvyUx3vyG0FPK-1" target="k1f_o4wJvyUx3vyG0FPK-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-1" value="微信扫码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="k1f_o4wJvyUx3vyG0FPK-2" target="k1f_o4wJvyUx3vyG0FPK-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-2" value="官网下载" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-3" value="应用商店下载" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k1f_o4wJvyUx3vyG0FPK-4" target="k1f_o4wJvyUx3vyG0FPK-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-14" value="绑定上下级关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="k1f_o4wJvyUx3vyG0FPK-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;打开注册界面，手机一键登录&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k1f_o4wJvyUx3vyG0FPK-6" target="k1f_o4wJvyUx3vyG0FPK-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-6" value="下载app" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1f_o4wJvyUx3vyG0FPK-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;授权微信帐号&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8of32imjR9UMvwfsS416-1" target="8of32imjR9UMvwfsS416-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-1" value="微信扫码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8of32imjR9UMvwfsS416-3" target="8of32imjR9UMvwfsS416-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-3" value="下载app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8of32imjR9UMvwfsS416-5" target="8of32imjR9UMvwfsS416-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-5" value="微信注册/登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8of32imjR9UMvwfsS416-7" target="8of32imjR9UMvwfsS416-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-7" value="绑定手机号，填写邀请码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8of32imjR9UMvwfsS416-9" value="完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
